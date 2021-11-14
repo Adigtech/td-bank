@@ -1,2 +1,2 @@
-just running
-
+bug detected in code
+bug resolved
